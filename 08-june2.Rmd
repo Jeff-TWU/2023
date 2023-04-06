@@ -120,6 +120,7 @@
 </p>
 </details>
 ```
+
 ## Break | 1:05-1:30 {-}
 
 ## Concurrent Session 18 | 1:30-3:00 {-}

@@ -117,6 +117,7 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 #### Join us for the #OTESSA23 Morning Radio Show every morning (times TBA) at https://voiced.ca
 
 ```
+
 ### Session Types {-}
 //todo #4
 ```{block, type='protip'}
@@ -356,6 +357,7 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 </p>
 </details>
 ```
+
 ### Concurrent Session 2.4 |  Sustaining Positive Change {-}
 
 ```{block, type='session'}
@@ -404,6 +406,7 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 </p>
 </details>
 ```
+
 ### Concurrent Session 2.5 |  Sustaining Positive Change {-}
 
 ```{block, type='session'}
@@ -692,6 +695,7 @@ Photo by <a href="https://unsplash.com/@adityachinchure?utm_source=unsplash&utm_
 
 #### Join us for the #OTESSA23 Morning Radio Show every morning Monday-Thursday 9:30-10:30 (Eastern) at https://voiced.ca
 ```
+
 ### Session Types {-}
 
 ```{block, type='protip'}
@@ -1019,6 +1023,7 @@ These questions have dominated teaching and learning circles and social media si
 </p>
 </details>
 ```
+
 ### Concurrent Session 8.2 |  Sustaining Positive Change {-}
 
 ```{block, type='session'}
@@ -1145,6 +1150,7 @@ These questions have dominated teaching and learning circles and social media si
 
 #### Join us for the #OTESSA23 Morning Radio Show every morning (time TBA) at https://voiced.ca
 ```
+
 ### Session Types {-}
 
 ```{block, type='protip'}
@@ -1339,6 +1345,7 @@ These questions have dominated teaching and learning circles and social media si
 </p>
 </details>
 ```
+
 ### Concurrent Session 10.2 {-}
 
 ```{block, type='speaker'}
@@ -1835,6 +1842,7 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 </p>
 </details>
 ```
+
 ## Break | 2:15-2:30 {-}
 
 ## Concurrent Session 15 | 2:30-3:00 {-}
@@ -2191,6 +2199,7 @@ For those heading home from York University, we wish you safe travels! See you s
 </p>
 </details>
 ```
+
 ## Break | 1:05-1:30 {-}
 
 ## Concurrent Session 18 | 1:30-3:00 {-}

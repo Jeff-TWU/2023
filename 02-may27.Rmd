@@ -6,6 +6,7 @@
 #### Join us for the #OTESSA23 Morning Radio Show every morning (times TBA) at https://voiced.ca
 
 ```
+
 ### Session Types {-}
 //todo #4
 ```{block, type='protip'}
@@ -245,6 +246,7 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 </p>
 </details>
 ```
+
 ### Concurrent Session 2.4 |  Sustaining Positive Change {-}
 
 ```{block, type='session'}
@@ -293,6 +295,7 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 </p>
 </details>
 ```
+
 ### Concurrent Session 2.5 |  Sustaining Positive Change {-}
 
 ```{block, type='session'}
